@@ -1,0 +1,579 @@
+#header h1 sup,
+#header .button,
+#header .landmark,
+#header .logo,
+#greeting p.icon {
+  display: none;
+}
+
+#header,
+#inner.wrapper {
+  margin: 0em 2%;
+}
+
+#outer.wrapper {
+  background-color: #cec3b1;
+  background-image: url("https://i.ibb.co/tQMRJYc/outer-fon-wood.jpg");
+  background-repeat: repeat;
+  background-position: top left;
+  background-size: auto;
+}
+
+#inner.wrapper {
+  background-color: #322618;
+  background-image: url("https://i.ibb.co/FBChB77/Icon-memories.png");
+  background-repeat: no-repeat;
+  background-position: 8% 1.5em;
+  background-size: auto 5em;
+  padding: 8em 1em 1em 1em;
+  box-shadow: 0 0 30px #000;
+}
+
+#main {
+  border: 2px solid #322618;
+}
+
+#main,
+body,
+.listbox .index {
+  background: #cec3b1;
+}
+
+body,
+#main,
+#main a,
+input[type="submit"],
+.splash .news li a,
+.actions a:visited,
+.action,
+button,
+.actions label {
+  color: #322618;
+}
+
+.blurb h4 a:link {
+  color: #900 !important;
+}
+
+#header .search .text {
+  width: 80%;
+  opacity: 0.7;
+}
+
+#footer {
+  border: none;
+  background: none;
+  color: #cec3b1;
+}
+
+#footer h4,
+#footer .menu,
+#footer a {
+  color: #cec3b1 !important;
+}
+
+#header .heading {
+  height: 16em;
+  width: 60%;
+  border-right: 10px solid #322618;
+  background-color: #322618;
+  background-image: url("https://i.ibb.co/qYc1xpw/shokolad-background.jpg");
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: auto 100%;
+}
+
+#header {
+  border: 10px solid #322618;
+  background-color: #322618;
+  background-image: url("https://i.ibb.co/Jd5k1cg/Coffee-header.jpg");
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-size: auto 100%;
+  box-shadow: 0px 0px 30px #000;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: none;
+  position: absolute;
+  top: 0em;
+}
+
+#header .primary li:not(.search) {
+  background: #322618;
+}
+
+#header .primary > li {
+  margin: 0 0.5em;
+}
+
+#header .heading a {
+  background-color: #322618;
+  color: #cec3b1;
+  position: absolute;
+  right: 1em;
+  top: 13.5em;
+}
+
+#greeting {
+  background: none;
+  height: 4em;
+  position: absolute;
+  right: 0em;
+  margin-right: 0em;
+  top: 18.5em;
+}
+
+#header .primary li,
+#header .primary li a,
+#greeting li,
+#greeting li a {
+  color: #cec3b1 !important;
+}
+
+#greeting .menu {
+  width: 16em;
+}
+
+#greeting li {
+  background: #322618;
+  border: 2px solid #cec3b1;
+  border-radius: 50%;
+  padding: 0.5em;
+  margin-right: 2em !important;
+}
+
+#greeting .dropdown .menu li {
+  margin: 0 0.125em !important;
+}
+
+#greeting li:last-child {
+  margin-right: 0em !important;
+}
+
+li.relationships a,
+.splash .favorite li:nth-of-type(odd) a {
+  background: #d7cfc0;
+}
+
+.splash .module h3 {
+  border-bottom: 1px solid #322618;
+}
+
+.splash .news li {
+  border-bottom: 1px dashed #322618;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: #322618;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #322618 !important;
+  color: #cec3b1 !important;
+}
+
+#dashboard {
+  background: #b9af9f;
+  border: 5px solid #e1dbd0;
+  box-shadow: 0 0 10px #000;
+}
+
+#dashboard.own,
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .dropdown .menu a,
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#greeting .dropdown .menu a {
+  background: #e1dbd0 !important;
+  color: #322618 !important;
+}
+
+#dashboard.own {
+  border: 5px solid #b9af9f;
+  box-shadow: 0 0 10px #000;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border-color: 1px solid #322618;
+}
+
+#greeting .actions a:hover,
+#greeting .actions a:focus,
+#greeting .dropdown:hover a,
+#greeting .dropdown:focus a,
+#greeting .open a {
+  border-radius: 50% !important;
+  padding: 0.5em;
+}
+
+#greeting .current,
+#greeting .dropdown:hover li,
+#greeting .dropdown:focus li {
+  border-radius: 0%;
+  padding: .2em;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background: #e1dbd0 !important;
+  color: #322618 !important;
+}
+
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  border-radius: 0% !important;
+}
+
+#header .menu li,
+#dashboard ul,
+#dashboard .secondary,
+ul.notes,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #322618;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+form .notice,
+form ul.notes,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background-color: #C7BFB2;
+  border-color: #322618;
+}
+
+.flash,
+.notice {
+  background-color: #322618;
+  color: #cec3b1;
+}
+
+.notice {
+  border: 1px solid #000;
+}
+
+.flash a,
+.notice a {
+  color: #cec3b1 !important;
+}
+
+form .notice,
+ul.notes,
+.caution {
+  background: #c09852;
+  color: #322618;
+  border-color: #322618;
+}
+
+.caution a {
+  color: #322618;
+}
+
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+.dropdown,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.required .autocomplete,
+.comment h4.byline {
+  background-color: #b9af9f;
+}
+
+.filters .submit input {
+  background: #322618;
+  color: #cec3b1;
+  border: 1px solid #000;
+}
+
+li.blurb,
+.listbox li.blurb,
+dl.meta,
+li.comment,
+p.kudos,
+#ibox_wrapper,
+#ibox_content,
+.statistics .index li:nth-of-type(even),
+dl.index dd,
+textarea:focus,
+input:focus,
+select:focus {
+  background-color: #e1dbd0;
+}
+
+textarea,
+input,
+select,
+.thread .even,
+.toggled form,
+.dynamic form,
+.autocomplete .dropdown ul,
+.autocomplete .dropdown ul li,
+.autocomplete input,
+.bookmark .user,
+.reading h4.viewed,
+.work .own,
+draft,
+.draft .wrapper,
+.unread,
+.unwrangled,
+.unreviewed {
+  background-color: #F4F1EE;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+  border: 2px dotted #322618;
+}
+
+.comment fieldset textarea {
+  background-image: url("https://i.ibb.co/k8q4Vsj/icon-chocolate50.png");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: auto 60%;
+  opacity: 0.7;
+}
+
+.thread .even {
+  opacity: 0.8;
+}
+
+li.blurb,
+.listbox li.blurb {
+  box-shadow: 0px 0px 10px #000;
+  border: 1px solid #322618;
+}
+
+dl.meta,
+li.comment {
+  border: 2px dotted #322618;
+}
+
+#main .wrapper {
+  box-shadow: none;
+}
+
+.blurb .header {
+  border-bottom: 1px dashed #322618;
+}
+
+.bookmark .user .module {
+  border: none;
+}
+
+.reading h4.viewed,
+.bookmark .user {
+  border: 1px dashed #322618;
+  box-shadow: none;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2em;
+  color: #8a242c;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 95%;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+#header h2 {
+  background-color: #c09852 !important;
+  height: 2.5em !important;
+  line-height: 1.2;
+  width: 98%;
+  position: absolute;
+  top: 8em;
+  left: 0em;
+}
+
+#dashboard ul {
+  background: transparent;
+  border: none;
+}
+
+#dashboard .secondary {
+  background-color: #F4F1EE;
+  border: 1px solid #322618;
+}
