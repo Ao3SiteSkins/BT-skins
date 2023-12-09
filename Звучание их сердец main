@@ -1,0 +1,513 @@
+#header,
+#inner.wrapper {
+  margin: 0px 50px;
+}
+
+#header h1 sup,
+#header .button,
+#greeting p.icon,
+#header .logo {
+  display: none;
+}
+
+#outer.wrapper {
+  padding-top: 2px;
+}
+
+#main,
+#inner,
+body,
+th,
+tr:hover,
+col.name,
+fieldset fieldset,
+fieldset dl dl,
+form blockquote.userstuff,
+.autocomplete div.dropdown ul,
+#ui-datepicker-div,
+#ibox_wrapper,
+#ibox_content,
+.toggled form,
+.dynamic form,
+.secondary,
+.listbox .index,
+.dashboard .listbox .index,
+.nomination dt {
+  background: #c7c1bf;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  background: #ded9cf;
+}
+
+body,
+#main a,
+input[type="submit"],
+.actions a:visited,
+.action,
+button,
+.actions label {
+  color: #382722;
+}
+
+#outer.wrapper,
+#footer {
+  background: #46312b url("https://i.ibb.co/nbdnSMV/fon4.jpg") top left repeat;
+  background-size: 350px auto;
+}
+
+#header .heading {
+  height: 310px;
+  background: none;
+}
+
+#header .heading a {
+  color: #c7c1bf;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+#inner.wrapper {
+  box-shadow: 0 0 30px #000;
+}
+
+#header {
+  background-color: #46312b;
+  background-image: url("https://i.ibb.co/zbbsbjk/fonBT.png");
+  background-repeat: no-repeat;
+  background-position: left 5px;
+  background-size: auto 310px;
+  box-shadow: 0 0 30px #000;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: none;
+}
+
+#footer {
+  float: none;
+  border: none;
+}
+
+#footer h4,
+#footer .menu {
+  border: 1px solid #000;
+  padding-left: 5px;
+  background: #46312b;
+}
+
+.splash .module {
+  background: #EBE8E2;
+}
+
+.splash .module h3,
+.splash .module ul {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.splash .module ul {
+  padding-bottom: 10px;
+}
+
+.splash .module h3 {
+  border-bottom: 2px solid #382722;
+}
+
+.splash .news li {
+  border-bottom: 1px dashed #382722;
+}
+
+.splash .news li a {
+  color: #382722;
+}
+
+.statistics .index li:nth-of-type(even),
+.splash .favorite li:nth-of-type(odd) a {
+  background: #ded9cf;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus {
+  background: #b3adab;
+}
+
+a.tag:hover,
+.listbox .heading a.tag:visited:hover {
+  background: #b3adab;
+}
+
+#greeting li,
+#greeting li a {
+  color: #fff !important;
+}
+
+#header #search .text {
+  width: 70%;
+}
+
+#greeting {
+  height: 40px;
+  background: none;
+  position: absolute;
+  right: 20px;
+  top: 80px;
+  border-top: 1px dashed #c7c1bf;
+  border-bottom: 1px dashed #c7c1bf;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #46312b;
+}
+
+#greeting .dropdown:hover a,
+#header .dropdown:hover a {
+  color: #382722 !important;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#header .dropdown .menu a,
+#greeting .dropdown .menu a {
+  background: #b3adab !important;
+  color: #382722 !important;
+}
+
+#dashboard a:hover,
+#dashboard .current,
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+#greeting .dropdown .menu a:hover,
+#greeting .dropdown .menu a:focus {
+  background: #EBE8E2 !important;
+  color: #382722 !important;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #ded9cf !important;
+}
+
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox,
+#header ul.primary .current {
+  border-color: #46312b;
+}
+
+#dashboard,
+#dashboard.own,
+.error,
+.comment_error,
+.kudos_error,
+#header ul.primary,
+.LV_invalid,
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active,
+#header .primary a,
+#header .primary .current,
+#header .primary input,
+#header .search input {
+  border-color: #46312b !important;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+ul.notes,
+#modal,
+.ui-sortable li,
+.required .autocomplete,
+.autocomplete .notice,
+.system .intro,
+.flash,
+.alert.flash,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background: #ded9cf;
+  border: 2px solid #46312b;
+  color: #382722;
+}
+
+.announcement .userstuff,
+.notice {
+  background: #46312b;
+  border: 2px solid #000;
+  color: #fff;
+}
+
+.announcement .userstuff a,
+.notice a {
+  color: #fff !important;
+}
+
+.flash {
+  border: none;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form {
+  background: #b3adab;
+  color: #382722;
+}
+
+select,
+.toggled form,
+.dynamic form,
+input,
+textarea,
+.listbox .index,
+#ibox_wrapper,
+#ibox_content {
+  background: #EBE8E2;
+  color: #382722;
+}
+
+.filters .submit input {
+  background: #ded9cf;
+  color: #382722;
+  border: 1px solid #46312b;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+}
+
+li.blurb,
+.listbox li.blurb,
+li.comment,
+#main .wrapper {
+  background: #EBE8E2;
+}
+
+.thread .even {
+  background: #ded9cf;
+}
+
+li.comment {
+  border-bottom: 2px solid #46312b;
+  border-top: 2px solid #46312b;
+  border-left: 1px dashed #46312b;
+  border-right: 1px dashed #46312b;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+}
+
+.listbox li.blurb,
+li.blurb {
+  box-shadow: 0 0 5px #000;
+}
+
+dl.meta,
+li.blurb .module {
+  background: #ded9cf;
+  border: 1px dashed #46312b;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+.comment h4.byline {
+  background: #b3adab;
+}
+
+#workskin .notes,
+dl.meta,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+  border: 1px dashed #46312b;
+  background-color: #EBE8E2;
+}
+
+#workskin {
+  text-align: justify;
+  background: #EBE8E2;
+  margin-top: 10px;
+  padding: 0px 15px 0px 15px;
+  max-width: 100%;
+  border: 1px dashed #46312b;
+}
+
+#workskin h2 {
+  font-size: 2.143em;
+  color: #900;
+}
+
+.blurb h4 a:link {
+  color: #900 !important;
+}
+
+.bookmark .user,
+.reading h4.viewed {
+  font-size: 90%;
+  border: none;
+  background: #b3adab;
+}
+
+li.relationships a {
+  background: #ded9cf;
+}
+
+dl.index dd {
+  background: #b3adab;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-weight: bold;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-weight: bold;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-weight: bold;
+}
+
+.work.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed {
+  background: #ded9cf;
+}
+
+#header h2 {
+  background-color: #903b34 !important;
+}
+
+.bookmark .dynamic {
+  border: none;
+}
