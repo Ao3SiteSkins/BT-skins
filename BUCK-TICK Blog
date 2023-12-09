@@ -1,0 +1,511 @@
+#header,
+#inner.wrapper {
+  margin: 0em 0em 0em 25%;
+  border-left: 4px solid #000;
+}
+
+#header h1 sup,
+#header .button,
+#header .logo {
+  display: none;
+}
+
+#header #search .text {
+  width: 70%;
+}
+
+#outer.wrapper {
+  padding-top: 40px;
+}
+
+#main,
+#inner,
+body,
+.listbox .index {
+  background: #ebebeb;
+}
+
+#outer.wrapper {
+  background-color: #000;
+  background-image: url("https://i.ibb.co/3dkNGzZ/collage-vertical-BT.png");
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: 25% auto;
+  background-attachment: fixed;
+}
+
+#header .heading {
+  background: none;
+  height: 30px;
+  float: left;
+}
+
+#header .heading a {
+  margin-left: 40px;
+  color: #000;
+}
+
+#header {
+  background: #ebebeb;
+}
+
+#header .primary {
+  box-shadow: none;
+  background: #f3f3f3;
+  border: #ebebeb solid 10px;
+  width: 95%;
+  height: 40px;
+  padding-top: 10px;
+}
+
+#header .primary li:first-child {
+  margin-left: 0em;
+}
+
+#greeting {
+  height: 40px;
+  background: #000;
+  position: absolute;
+  top: -40px;
+  left: -40px;
+}
+
+#greeting .menu {
+  left: 0;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+}
+
+#greeting img.icon {
+  height: 50px;
+  width: 50px;
+  box-shadow: 8px 8px #000;
+}
+
+#footer {
+  float: left;
+  border: none;
+  background: none;
+  width: 70%;
+  margin-left: 30%;
+}
+
+#greeting li,
+#greeting li a,
+#header .primary li,
+#header .primary li a {
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+#header .primary li,
+#header .primary li a {
+  color: #900 !important;
+}
+
+#greeting li,
+#greeting li a {
+  color: #fff !important;
+}
+
+.splash .module {
+  background: #f3f3f3;
+}
+
+.splash .module h3,
+.splash .module ul {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.splash .module h3 {
+  padding: 10px;
+  margin-top: 0;
+  background: #e4e4e4;
+  color: #000;
+  height: 40px;
+}
+
+.splash .module h3::before {
+  content: ' ';
+  position: absolute;
+  width: 10px;
+  height: 60px;
+  left: -10px;
+  top: 0px;
+  background: #000;
+}
+
+.splash .module h3 {
+  border-bottom: none;
+}
+
+.splash .news li {
+  border-bottom: 1px dashed #000;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #ebebeb;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+a.tag:hover,
+a.tag:focus,
+#dashboard a:hover,
+#dashboard a:focus,
+#dashboard .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #000;
+  color: #fff;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu {
+  border: 1px solid #725b51;
+}
+
+#greeting .dropdown:hover a,
+#header .dropdown:hover a {
+  background: #cdcdcd !important;
+  color: #000 !important;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#header .dropdown .menu a,
+#greeting .dropdown .menu a {
+  background: #cdcdcd !important;
+  color: #000 !important;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: none;
+}
+
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+#greeting .dropdown .menu a:hover,
+#greeting .dropdown .menu a:focus {
+  background: #000 !important;
+  color: #fff !important;
+  font-style: normal;
+  font-weight: normal;
+  text-transform: none;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #f3f3f3 !important;
+  color: #000 !important;
+}
+
+#main.dashboard,
+#dashboard {
+  margin-top: 0em;
+}
+
+#dashboard,
+#dashboard.own,
+#header .menu li,
+ul.notes,
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox {
+  border-color: #000;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+#modal,
+.ui-sortable li,
+.comment_notice,
+.kudos_notice,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background: #cdcdcd;
+  border: 2px solid #000;
+}
+
+.notice {
+  background: #000;
+  border: 2px solid #000;
+  color: #fff;
+}
+
+.notice a {
+  color: #fff !important;
+}
+
+
+form .notice,
+.caution,
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash {
+  background: #efd1d1;
+  color: #000;
+  border-color: #900;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.secondary form,
+.thread .odd {
+  background: #e4e4e4;
+}
+
+.filters .submit input {
+  background: #000;
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+dl.meta,
+li.comment {
+  border-bottom: 2px solid #000;
+  border-top: 2px solid #000;
+  border-left: 1px dashed #000;
+  border-right: 1px dashed #000;
+  background: #f3f3f3;
+}
+
+.listbox li.blurb,
+li.blurb {
+  box-shadow: 0 0 5px #000;
+  border: 1px solid #000;
+  background: #f3f3f3;
+}
+
+li.blurb .module {
+  background: #ebebeb;
+  border: 1px dashed #000;
+}
+
+.blurb .datetime {
+  background: #000;
+  color: #fff;
+}
+
+li.relationships a {
+  background: #e4e4e4;
+}
+
+.home .header h2 {
+  text-align: left;
+  border-bottom: 2px solid #000;
+  color: #900;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.143em;
+  color: #000;
+}
+
+#workskin .notes,
+dl.meta,
+.reading h4.viewed,
+.bookmark .user,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+  background-color: #f3f3f3;
+  border: 1px solid #cdcdcd;
+}
+
+.bookmark .user,
+.reading h4.viewed,
+dl.index dd {
+  border: none;
+  background: #e4e4e4;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-family: Georgia,serif;
+  font-weight: 600;
+}
+
+.work .own,
+draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed {
+  background: #ebebeb;
+}
+
+.statistics .index li:nth-of-type(even),
+dl.signup.index.group,
+dl.subscription.index.group {
+  background: #cdcdcd;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+.comment h4.byline {
+  background: #cdcdcd;
+}
+
+.bookmark .dynamic {
+  border: none;
+}
+
+.bookmark .datetime {
+  background: none;
+  color: #000;
+}
+
+#header h2 {
+  background-color: #903b34 !important;
+}
