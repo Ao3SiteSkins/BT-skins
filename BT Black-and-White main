@@ -1,0 +1,520 @@
+#header,
+#inner.wrapper {
+  margin: 0px 50px;
+}
+
+#header h1 sup,
+#header .button,
+#greeting p.icon,
+#header .logo {
+  display: none;
+}
+
+#outer.wrapper {
+  padding-top: 5px;
+}
+
+#main,
+#inner,
+body,
+th,
+tr:hover,
+col.name,
+fieldset fieldset,
+fieldset dl dl,
+form blockquote.userstuff,
+input:focus,
+select:focus,
+textarea:focus,
+.autocomplete div.dropdown ul,
+#ui-datepicker-div,
+#ibox_wrapper,
+#ibox_content,
+.toggled form,
+.dynamic form,
+.secondary,
+.listbox .index,
+.dashboard .listbox .index,
+.nomination dt {
+  background: #ebebeb;
+}
+
+#outer.wrapper,
+#footer {
+  background: #777575 url("https://i.ibb.co/zJg6y6D/fon2.jpg") top left repeat;
+}
+
+
+#footer {
+  float: none;
+  border: none;
+}
+
+#header .heading {
+  background: #000;
+  height: 250px;
+}
+
+#header .primary {
+  height: 30px;
+  box-shadow: none;
+  background: #000;
+}
+
+#inner.wrapper {
+  box-shadow: 0 0 30px #000;
+}
+
+#header {
+  background: #000 url("https://i.ibb.co/w7FThd2/fon1.jpg") top right no-repeat;
+  background-size: cover;
+  box-shadow: 0 0 30px #000;
+}
+
+#greeting {
+  background: #000;
+  position: absolute;
+  float: left;
+  top: 50px;
+  left: 10px;
+  height: 120px;
+  box-shadow: 0 0 10px #fff;
+}
+
+#greeting .menu {
+  left: 0;
+}
+
+#greeting li {
+  clear: left;
+  line-height: 2.0;
+}
+
+#header .user a {
+  font-size: 14px;
+  color: #fff;
+  font-weight: bold;
+}
+
+#header h1 span {
+  font-size: 16px;
+  color: #fff;
+  font-weight: bold;
+}
+
+#header .dropdown:hover a {
+  background: #777575 !important;
+  color: #fff !important;
+}
+
+#header .dropdown .menu,
+#greeting .dropdown .menu,
+#header .dropdown .menu a,
+#greeting .dropdown .menu a {
+  background: #989b9b !important;
+  color: #000 !important;
+  font-weight: normal;
+  line-height: 1.2;
+}
+
+#dashboard a:hover,
+#dashboard .current,
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+#greeting .dropdown .menu a:hover,
+#greeting .dropdown .menu a:focus {
+  background: #777575 !important;
+  color: #fff !important;
+}
+
+#dashboard,
+#dashboard.own {
+  background: #d3d3d3 !important;
+}
+
+.splash .module h3 {
+  border-bottom: 2px solid #000;
+}
+
+.splash .news li {
+  border-bottom: 1px dashed #000;
+}
+
+.splash .favorite li:nth-of-type(odd) a {
+  background: #777575;
+  color: #fff;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus {
+  background: #000;
+  color: #fff;
+}
+
+a.tag:hover,
+.listbox .heading a.tag:visited:hover {
+  background: #000;
+  color: #fff;
+}
+
+.system .latest h3,
+.splash .module h3,
+.system .tweets h3 {
+  color: black;
+  text-shadow: 0.5px 0.5px 0.5px white;
+}
+
+tbody tr,
+thead td,
+#header #small_login,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+form dt,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+.search span.tip,
+.listbox,
+fieldset fieldset.listbox,
+#header ul.primary .current {
+  border-color: #000;
+}
+
+#dashboard,
+#dashboard.own,
+.error,
+.comment_error,
+.kudos_error,
+#header ul.primary,
+.LV_invalid,
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active,
+#header .primary a,
+#header .primary .current,
+#header .primary input,
+#header .search input {
+  border-color: #000 !important;
+}
+
+#main .verbose legend,
+.verbose fieldset,
+.notice,
+ul.notes,
+ #modal,
+.ui-sortable li,
+.required .autocomplete,
+.autocomplete .notice,
+.system .intro,
+.flash,
+.alert.flash,
+div.dynamic,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background: #777575;
+  color: #fff !important;
+}
+
+#main .verbose legend a,
+.verbose fieldset a .notice a,
+.ui-sortable li a,
+.required .autocomplete a,
+.autocomplete .notice a,
+.system .intro a,
+.comment_error a,
+.kudos_error a,
+.flash a,
+.alert.flash a {
+  color: #fff;
+}
+
+#main .verbose fieldset a {
+  color: #000;
+}
+
+h2 {
+  font-size: 1.286em;
+  line-height: 1;
+  margin: 0.5375em 0;
+}
+
+.listbox,
+fieldset fieldset.listbox,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.dynamic form fieldset,
+.toggled form fieldset,
+.toggled form dl,
+.secondary .toggled form,
+.announcement .userstuff,
+.secondary form {
+  background: #989b9b;
+}
+
+select,
+.toggled form,
+.dynamic form,
+input,
+textarea,
+.listbox .index,
+#ibox_wrapper,
+#ibox_content,
+.thread .even {
+  background: #ebebeb;
+  color: #000;
+}
+
+.filters .submit input {
+  background: #ebebeb;
+  color: #000;
+}
+
+.icon img,
+.comment .icon .visitor {
+  background-color: #fff;
+  height: 80px;
+  width: 80px;
+  padding: 0px;
+  margin: 0px;
+  border: 4px solid transparent;
+  border-radius: 5px;
+}
+
+.comment .icon .visitor {
+  background-color: #FFF;
+  background-image: url("https://archiveofourown.org/images/skins/iconsets/default/icon_user.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 80px 80px;
+}
+
+.comment div.icon {
+  border-bottom: none;
+}
+
+li.comment {
+  border: 2px solid #000;
+}
+
+.comment h4.byline {
+  background: #989b9b;
+  color: #fff;
+}
+
+.comment h4.byline a {
+  color: #fff !important;
+}
+
+#workskin .notes,
+dl.meta,
+.comment .posted,
+.comment .edited {
+  font-size: 90%;
+}
+
+.comment .edited {
+  font-style: italic;
+}
+
+p.kudos {
+  font-size: 95%;
+  margin-top: 15px;
+  text-align: justify;
+  padding: 0px;
+  background: none;
+  border-top: 1px solid #888;
+}
+
+p.kudos::before {
+  content: "Thanks:";
+  font-weight: bold;
+  font-style: normal;
+}
+
+.wrapper {
+  box-shadow: none;
+}
+
+dl.meta {
+  border-top: 1px dashed #000;
+  border-right: none;
+  border-left: none;
+  border-bottom: 4px solid #000;
+}
+
+.home .header h2 {
+  text-align: left;
+  border-bottom: 2px solid #000;
+  color: #000;
+  font-weight: bold;
+}
+
+#workskin {
+  text-align: justify;
+}
+
+#workskin h2 {
+  font-size: 2.143em;
+  color: #900;
+}
+
+.blurb .datetime {
+  background: #000;
+  color: #fff;
+}
+
+li.blurb {
+  border-top: none;
+  border-bottom: 15px solid #000;
+  border-left: none;
+  border-right: none;
+  padding: 0;
+}
+
+.blurb .module {
+  border-top: 4px solid #000;
+  border-bottom: 1px dashed #000;
+}
+
+.blurb dl.stats {
+  border-top: 1px dashed #000;
+  font-size: 90%;
+}
+
+li.relationships a {
+  background: #d3d3d3;
+}
+
+ul.tags li.warnings,
+ul.tags li.relationships,
+ul.tags li.characters,
+ul.tags li.freeforms {
+  float: left !important;
+  margin: 0;
+  padding: 2px;
+}
+
+li.warnings + li.relationships,
+li.relationships + li.characters,
+li.characters + li.freeforms,
+li.warnings + li.characters,
+li.warnings + li.freeforms,
+li.relationships + li.freeforms {
+  clear: left;
+}
+
+ul.tags li.warnings:first-child:before {
+  content: "Warnings: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.relationships:before {
+  content: "Relationships: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.relationships + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.characters + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.characters:before {
+  content: "Characters: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.warnings + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.relationships + li.freeforms:before {
+  content: "Other tags: ";
+  color: #000;
+  font-weight: bold;
+}
+
+li.blurb blockquote p:first-child::before {
+  content: "About: ";
+  color: #000;
+  font-size: 95%;
+  font-weight: bold;
+}
+
+.blurb ul.series::before {
+  content: "Series: ";
+  color: #000;
+  font-weight: bold;
+}
+
+.blurb .fandoms::before {
+  content: "Fandom: ";
+  color: #000;
+  font-weight: bold;
+}
+
+.bookmark .user,
+.reading h4.viewed {
+  font-size: 90%;
+  border: none;
+  background: #d3d3d3;
+}
+
+dl.index dd {
+  background: #d3d3d3;
+}
+
+.bookmark .user {
+  border: none;
+}
+
+.bookmark p.status {
+  right: 0;
+  width: 80px;
+  margin-top: 0;
+  background: #000;
+  border-left: 4px solid #000;
+  border-bottom: 4px solid #000;
+}
+
+.thread .even,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed {
+  background: #d3d3d3;
+}
+
+#header h2 {
+  background-color: #903b34 !important;
+}
